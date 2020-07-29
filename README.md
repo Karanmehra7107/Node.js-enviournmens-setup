@@ -28,7 +28,6 @@ instal the setup as default settings
  ```bash
 node –v 
 ```
-ctrl c to exit 
 2--instaling the Typescript
  __cmd__
  ```bash
