@@ -9,13 +9,13 @@ __Node.js , typescript  , Angular , VScode__
   * [Downloads](#downloads)
   * [Environments](#environments)
   * [Run](#run)
-  * [Directory Tree of project](#Directory_Tree_of_project)
   * [Team](#team)
   * [License](#license)
   
 
-## Downloads (Step 1)
-1--Hit[click to download node.js](https://nodejs.org/dist/v12.18.3/node-v12.18.3-x64.msi)
+## Downloads 
+__(Step 1)__
+1--Download[click to download node.js](https://nodejs.org/dist/v12.18.3/node-v12.18.3-x64.msi)
 instal the setup as default settings.
 
  __copy paste in cmd__
@@ -38,7 +38,8 @@ npm install –g @angular/cli
 [click to download vscode](
 https://code.visualstudio.com/download#)
 
-## environments (Step 2)
+## Environments 
+__(Step 2)__
 __copy paste in cmd__
  ```bash
  sysdm.cpl
@@ -75,40 +76,7 @@ node –v
 ```
 
 
-              
-
-## Directory Tree of project
-```
-├── contactform
-├── CSS
-│   ├── style.css
-│   └── scss-files
-├── img
-│   └── Banner.png
-│   └── Feature-1.svg
-│   └── Feature-2.svg
-│   └── intro-bg.png
-│   └── intro-img.jpeg
-├── JS
-│   └── main.js
-├── lib
-│   └── animate.css
-│   └── bootstrap
-│   └── counterup
-│   └── easing
-│   └── font-awsome
-│   └── ionicons
-│   └── isotopes
-│   └── jquery
-│   └── lightbox
-│   └── mobile-nav
-│   └── owlcarousel
-│   └── waypoints
-│   └── wow
-├── index.html
-└── README.md
-
-```
+             
 
 
 ## Team
