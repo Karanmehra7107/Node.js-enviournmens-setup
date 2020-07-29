@@ -1,2 +1,169 @@
-# Node.js-enviournmens-setup
-including Node , typescript  , Angular
+# Node.js-enviournmens-setup CAP917 
+__Node.js , typescript  , Angular , VScode__
+
+
+
+![html](https://img.shields.io/badge/language-html-blue.svg) ![CSS](https://img.shields.io/badge/design-CSS-brightgreen.svg) ![JavaScript](https://img.shields.io/badge/code-JavaScript-orange.svg)  ![node.js](https://img.shields.io/badge/framework-node.js-blue.svg)
+
+## Table of Content (steps)
+  * [Downloads](#downloads)
+  * [Environments](#environments)
+  * [Demo](#demo)
+  * [Download Files](#download-files)
+  * [Motivation](#motivation)
+  * [Technical Aspect](#technical-aspect)
+  * [Directory Tree](#directory-tree)
+  * [Run](#run)
+  * [Feature](#feature)
+  * [Team](#team)
+  * [License](#license)
+  
+
+## Downloads (Step 1)
+1--instaling the node form distribution.
+[node.js  for windows with .msi extension](https://nodejs.org/dist/v12.18.3/node-v12.18.3-x64.msi)
+instal the setup as default settings
+ __cmd__
+ checking the instaled version of node
+ ```bash
+node –v 
+```
+ctrl c to exit 
+2--instaling the Typescript
+ __cmd__
+ ```bash
+npm install –g typescript –save 
+```
+3--instaling the angular frameork
+__cmd__
+ ```bash
+npm install –g @angular/cli 
+```
+
+## environments (Step 2)
+__cmd__
+ ```bash
+ sysdm.cpl
+```
+step--1 select Advance settings 
+step--2 click environmental variables 
+step--3 click Path   
+step--4 click new  
+step--5 paste C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Node.js  
+step--6
+ __cmd__
+ checking the instaled version of node
+ ```bash
+node –v 
+```
+
+
+## Demo
+   • If you are searching for __Code__,.. you won't find it here. Click the link mentioned below for the same:<br />
+     Link: https://karanmehra7107.github.io/Internship-Front-End/
+
+   • Please do ⭐ the repository, if it helped you in anyway.
+
+   • A glimpse of the web app:
+                                                                        __output__
+
+![Animated GIF-downsized_large (7)](https://user-images.githubusercontent.com/62024355/88308233-6d0b5080-cd2a-11ea-92a5-0d264f4e24bc.gif)
+
+
+## Download Files
+__windows cmd__
+```bash
+wget https://github.com/Karanmehra7107/Internship-Front-End.git
+  ```
+ 
+
+## Motivation
+What could be a perfect way to utilize unfortunate lockdown period? Like most of you, I spend my time in cooking, Netflix, coding, Learning and reading some latest research papers on weekends. Finding internship lead to make this project.
+
+## Technical Aspect
+This project is divided into two part:
+1. Front-End Html, Css, JavaScript codes
+2. Building and hosting web app on Git_Pages.
+
+
+
+## Directory Tree 
+```
+├── contactform
+├── CSS
+│   ├── style.css
+│   └── scss-files
+├── img
+│   └── Banner.png
+│   └── Feature-1.svg
+│   └── Feature-2.svg
+│   └── intro-bg.png
+│   └── intro-img.jpeg
+├── JS
+│   └── main.js
+├── lib
+│   └── animate.css
+│   └── bootstrap
+│   └── counterup
+│   └── easing
+│   └── font-awsome
+│   └── ionicons
+│   └── isotopes
+│   └── jquery
+│   └── lightbox
+│   └── mobile-nav
+│   └── owlcarousel
+│   └── waypoints
+│   └── wow
+├── index.html
+└── README.md
+
+```
+
+## Run
+__windows cmd__
+```bash
+   start https://karanmehra7107.github.io/Internship-Front-End/
+```
+__MacOS cmd__
+```bash
+   open https://karanmehra7107.github.io/Internship-Front-End/
+```
+__Linux/Unix cmd__
+```bash
+   xdg-open https://karanmehra7107.github.io/Internship-Front-End/
+```
+
+## Feature 
+-  If you click the minimize button of the chat box shown bottom rigth of web page, the chat box open with __margine-right:20px__ 
+-  Animation in the text __Where words fail, Music speak__
+-  Hover animation on the top to web page 
+-  Responsive Webpage
+
+
+
+## Team
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Fs4h7fZ/Pics-Art-05-30-07-58-11.jpg" alt="PicsArt_05-30-07.58.11" border="0">
+
+[Karan Mehra](https://karanmehra7107.github.io/My-Portfolio/index.html)
+
+## License
+[![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)](http://www.apache.org/licenses/LICENSE-2.0e)
+
+Copyright 2020 Karan Mehra
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
+
+
