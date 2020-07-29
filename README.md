@@ -63,7 +63,7 @@ step--4 click new.
 ![image](https://user-images.githubusercontent.com/62024355/88849492-95ea8480-d207-11ea-83ae-8e8d83a5e1b0.png)
 
 
-step--5 paste C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Node.js  
+step--5 paste __C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Node.js__ 
 
 step--6
  __copy paste in cmd__
