@@ -45,10 +45,15 @@ __copy paste in cmd__
  sysdm.cpl
 ```
 step--1 select Advance settings.
+
 step--2 click environmental variables. 
+
 step--3 click Path and edit.    
+
 step--4 click new.  
+
 step--5 paste C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Node.js  
+
 step--6
  __copy paste in cmd__
  checking the instaled version of node
@@ -57,7 +62,8 @@ node –v
 ```
 
 
-## Run (step 3)
+## Run 
+__(step 3)__
 1-- __copy paste in cmd__
  ```bash
  node
