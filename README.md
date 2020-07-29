@@ -49,10 +49,16 @@ __copy paste in cmd__
 step--1 select Advance settings.
 
 step--2 click environmental variables. 
+![image](https://user-images.githubusercontent.com/62024355/88849355-60459b80-d207-11ea-875c-cdea38a1883b.png)
+
 
 step--3 click Path and edit.    
+![image](https://user-images.githubusercontent.com/62024355/88849433-8408e180-d207-11ea-8efe-56c8c2be1f07.png)
+
 
 step--4 click new.  
+![image](https://user-images.githubusercontent.com/62024355/88849492-95ea8480-d207-11ea-83ae-8e8d83a5e1b0.png)
+
 
 step--5 paste C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Node.js  
 
@@ -82,7 +88,8 @@ __(step 3)__
  ```bash
  ng new project_name
 ```
-
+__working directories__
+![image](https://user-images.githubusercontent.com/62024355/88849589-badef780-d207-11ea-80de-3ceb3f1abdef.png)
 
              
 
