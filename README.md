@@ -8,13 +8,8 @@ __Node.js , typescript  , Angular , VScode__
 ## Table of Content (steps)
   * [Downloads](#downloads)
   * [Environments](#environments)
-  * [Demo](#demo)
-  * [Download Files](#download-files)
-  * [Motivation](#motivation)
-  * [Technical Aspect](#technical-aspect)
-  * [Directory Tree](#directory-tree)
   * [Run](#run)
-  * [Feature](#feature)
+  * [Directory Tree of project](#Directory_Tree_of_project)
   * [Team](#team)
   * [License](#license)
   
@@ -23,18 +18,18 @@ __Node.js , typescript  , Angular , VScode__
 1--Hit[click to download node.js](https://nodejs.org/dist/v12.18.3/node-v12.18.3-x64.msi)
 instal the setup as default settings.
 
- __cmd__
+ __copy paste in cmd__
  checking the instaled version of node
  ```bash
 node –v 
 ```
 2--instaling the Typescript
- __cmd__
+ __copy paste in cmd__
  ```bash
 npm install –g typescript –save 
 ```
 3--instaling the angular frameork
-__cmd__
+__copy paste in cmd__
  ```bash
 npm install –g @angular/cli 
 ```
@@ -44,23 +39,45 @@ npm install –g @angular/cli
 https://code.visualstudio.com/download#)
 
 ## environments (Step 2)
-__cmd__
+__copy paste in cmd__
  ```bash
  sysdm.cpl
 ```
 step--1 select Advance settings.
 step--2 click environmental variables. 
-step--3 click Path.   
+step--3 click Path and edit.    
 step--4 click new.  
 step--5 paste C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Node.js  
 step--6
- __cmd__
+ __copy paste in cmd__
  checking the instaled version of node
  ```bash
 node –v 
 ```
 
-## Directory Tree 
+
+## Run (step 3)
+1-- __copy paste in cmd__
+ ```bash
+ node
+```
+> if this arrow shows than wallah!
+ 
+2--  __to exit node, copy paste in cmd__ 
+ ```bash
+ ctrl c
+ ctrl c
+```
+3-- Open Vscode < create new file < open terminal < chage powershell to cmd prompt.
+4-- __paste in cmd terminal of vs code __
+ ```bash
+ ng new project_name
+```
+
+
+              
+
+## Directory Tree of project
 ```
 ├── contactform
 ├── CSS
