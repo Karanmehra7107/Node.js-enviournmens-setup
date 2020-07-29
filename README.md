@@ -108,7 +108,8 @@ __working directories__
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Fs4h7fZ/Pics-Art-05-30-07-58-11.jpg" alt="PicsArt_05-30-07.58.11" border="0">
 
 [Karan Mehra](https://karanmehra7107.github.io/My-Portfolio/index.html)
-__credit: Ridhima mam (LPU)__
+
+__Credit/ Special thanks to: Ridhima Dhawan mam (LPU)__
 
 ## License
 [![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)](http://www.apache.org/licenses/LICENSE-2.0e)
