@@ -20,7 +20,7 @@ __Node.js , typescript  , Angular , VScode__
   
 
 ## Downloads (Step 1)
-1--[node.js  for windows with .msi extension](https://nodejs.org/dist/v12.18.3/node-v12.18.3-x64.msi)
+1--click [node.js  for windows with .msi extension](https://nodejs.org/dist/v12.18.3/node-v12.18.3-x64.msi)
 instal the setup as default settings.
 
  __cmd__
@@ -60,36 +60,6 @@ step--6
 node –v 
 ```
 
-
-## Demo
-   • If you are searching for __Code__,.. you won't find it here. Click the link mentioned below for the same:<br />
-     Link: https://karanmehra7107.github.io/Internship-Front-End/
-
-   • Please do ⭐ the repository, if it helped you in anyway.
-
-   • A glimpse of the web app:
-                                                                        __output__
-
-![Animated GIF-downsized_large (7)](https://user-images.githubusercontent.com/62024355/88308233-6d0b5080-cd2a-11ea-92a5-0d264f4e24bc.gif)
-
-
-## Download Files
-__windows cmd__
-```bash
-wget https://github.com/Karanmehra7107/Internship-Front-End.git
-  ```
- 
-
-## Motivation
-What could be a perfect way to utilize unfortunate lockdown period? Like most of you, I spend my time in cooking, Netflix, coding, Learning and reading some latest research papers on weekends. Finding internship lead to make this project.
-
-## Technical Aspect
-This project is divided into two part:
-1. Front-End Html, Css, JavaScript codes
-2. Building and hosting web app on Git_Pages.
-
-
-
 ## Directory Tree 
 ```
 ├── contactform
@@ -122,27 +92,6 @@ This project is divided into two part:
 └── README.md
 
 ```
-
-## Run
-__windows cmd__
-```bash
-   start https://karanmehra7107.github.io/Internship-Front-End/
-```
-__MacOS cmd__
-```bash
-   open https://karanmehra7107.github.io/Internship-Front-End/
-```
-__Linux/Unix cmd__
-```bash
-   xdg-open https://karanmehra7107.github.io/Internship-Front-End/
-```
-
-## Feature 
--  If you click the minimize button of the chat box shown bottom rigth of web page, the chat box open with __margine-right:20px__ 
--  Animation in the text __Where words fail, Music speak__
--  Hover animation on the top to web page 
--  Responsive Webpage
-
 
 
 ## Team
