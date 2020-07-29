@@ -1,4 +1,4 @@
-# Node.js-enviournmens-setup CAP917 
+# Node.js-enviournments-setup CAP917 
 __Node.js , typescript  , Angular , VScode__
 
 
