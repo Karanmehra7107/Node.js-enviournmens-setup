@@ -22,7 +22,8 @@ __Node.js , typescript  , Angular , VScode__
 ## Downloads (Step 1)
 1--instaling the node form distribution.
 [node.js  for windows with .msi extension](https://nodejs.org/dist/v12.18.3/node-v12.18.3-x64.msi)
-instal the setup as default settings
+instal the setup as default settings.
+
  __cmd__
  checking the instaled version of node
  ```bash
@@ -39,15 +40,19 @@ __cmd__
 npm install –g @angular/cli 
 ```
 
+4--instaling Vscode
+[click to download vscode](
+https://code.visualstudio.com/download#)
+
 ## environments (Step 2)
 __cmd__
  ```bash
  sysdm.cpl
 ```
-step--1 select Advance settings 
-step--2 click environmental variables 
-step--3 click Path   
-step--4 click new  
+step--1 select Advance settings.
+step--2 click environmental variables. 
+step--3 click Path.   
+step--4 click new.  
 step--5 paste C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Node.js  
 step--6
  __cmd__
