@@ -19,8 +19,8 @@ __(Step 1)__
 Download  [click to download node.js](https://nodejs.org/dist/v12.18.3/node-v12.18.3-x64.msi)
 
 instal the setup as default settings.
-1--
- __copy paste in cmd__
+
+1-- __copy paste in cmd__
  checking the instaled version of node
  ```bash
 node –v 
