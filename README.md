@@ -20,18 +20,18 @@ Download  [click to download node.js](https://nodejs.org/dist/v12.18.3/node-v12.
 
 instal the setup as default settings.
 
-1-- __copy paste in cmd__
+1-- __run__
  checking the instaled version of node
  ```bash
 node –v 
 ```
 2--instaling the Typescript
- __copy paste in cmd__
+ __run__
  ```bash
 npm install –g typescript –save 
 ```
 3--instaling the angular frameork
-__copy paste in cmd__
+__run__
  ```bash
 npm install –g @angular/cli 
 ```
@@ -42,7 +42,7 @@ https://code.visualstudio.com/download#)
 
 ## Environments 
 __(Step 2)__
-__copy paste in cmd__
+__run__
  ```bash
  sysdm.cpl
 ```
@@ -66,7 +66,7 @@ step--4 click new.
 step--5 paste __C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Node.js__ 
 
 step--6
- __copy paste in cmd__
+ __run__
  checking the instaled version of node
  ```bash
 node –v 
@@ -75,19 +75,19 @@ node –v
 
 ## Run 
 __(step 3)__
-1-- __copy paste in cmd__
+1-- __run__
  ```bash
  node
 ```
 > if this arrow shows than wallah!
  
-2--  __to exit node, copy paste in cmd__ 
+2--  __to exit node,run__ 
  ```bash
  ctrl c
  ctrl c
 ```
 3-- Open Vscode < create new file < open terminal < chage powershell to cmd prompt.
-4-- __paste in cmd terminal of vs code __
+4-- __run terminal of vs code __
  ```bash
  ng new project_name
 ```
