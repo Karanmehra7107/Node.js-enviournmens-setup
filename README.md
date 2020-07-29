@@ -20,7 +20,7 @@ __Node.js , typescript  , Angular , VScode__
   
 
 ## Downloads (Step 1)
-1--click [click to download node.js](https://nodejs.org/dist/v12.18.3/node-v12.18.3-x64.msi)
+1--Hit[click to download node.js](https://nodejs.org/dist/v12.18.3/node-v12.18.3-x64.msi)
 instal the setup as default settings.
 
  __cmd__
