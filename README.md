@@ -128,7 +128,8 @@ __Credit/ Special thanks to: Ridhima Dhawan mam (LPU)__
 
 ## Built With
 ![](https://i.imgur.com/ET7GHM4.png)
-[](https://user-imagesa.githubusercontent.com/49339/32078472-5053adea-baa7-11e7-9034-519002f12ac7.png)
+![32078472-5053adea-baa7-11e7-9034-519002f12ac7](https://user-images.githubusercontent.com/62024355/88908524-99b5ef80-d277-11ea-951a-c0449993df91.png)
+
 * ReactJS (front-end)
 * NodeJS (back-end)
 * Express (NodeJS Framework)
