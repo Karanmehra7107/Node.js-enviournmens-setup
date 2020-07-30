@@ -33,7 +33,7 @@ node –v
  ```bash
 npm install –g typescript –save 
 ```
-3--instaling the angular frameork
+3--instaling the angular framework
 
 __run__
 
