@@ -5,11 +5,12 @@ __Node.js , typescript  , Angular , VScode__
 
 ![html](https://img.shields.io/badge/language-html-blue.svg) ![CSS](https://img.shields.io/badge/design-CSS-brightgreen.svg) ![JavaScript](https://img.shields.io/badge/code-JavaScript-orange.svg)  ![node.js](https://img.shields.io/badge/framework-node.js-blue.svg)
 
-## Table of Content (steps)
+## Table of Content
   * [Downloads](#downloads)
   * [Environments](#environments)
   * [Run](#run)
   * [Team](#team)
+  * [Built](#built-with)
   * [License](#license)
   
 
