@@ -125,6 +125,14 @@ __working directories__
 
 __Credit/ Special thanks to: Ridhima Dhawan mam (LPU)__
 
+## Built With
+![](https://i.imgur.com/ET7GHM4.png)
+* ReactJS (front-end)
+* NodeJS (back-end)
+* Express (NodeJS Framework)
+* MongoDB (database)
+* Visual Studio code (text editor)
+
 ## License
 [![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)](http://www.apache.org/licenses/LICENSE-2.0e)
 
