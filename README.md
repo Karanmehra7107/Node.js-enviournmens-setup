@@ -124,7 +124,7 @@ __working directories__
 
 [Karan Mehra](https://karanmehra7107.github.io/My-Portfolio/index.html)
 
-__Credit/ Special thanks to: Ridhima Dhawan mam (LPU)__
+
 
 ## Built With
 ![](https://i.imgur.com/ET7GHM4.png)
